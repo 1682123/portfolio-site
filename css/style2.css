@@ -119,7 +119,6 @@ menu
   align-items: center; 
 }
 #menu li {
-  /* margin-right: 10px; */
   list-style: none;
 }
 
@@ -202,7 +201,7 @@ access
   display: flex;
 }
 #access a {
-  display: block;
+  display: flex;
   width: 100%;
 }
 #access dl {
@@ -326,9 +325,5 @@ SP
   }
   dt, dd {
     padding: 5px;
-  }
-  #access a {
-    display: block;
-    width: 100%;
   }
 }
