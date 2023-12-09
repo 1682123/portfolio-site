@@ -102,7 +102,7 @@ Main-visual
 menu
 -------------------------------------------*/
 #menu {
-  width: 80%;
+  width: 100%;
   padding: 20px;
   margin: 0 auto 25px auto;
 }
@@ -119,6 +119,7 @@ menu
   align-items: center; 
 }
 #menu li {
+  /* margin-right: 10px; */
   list-style: none;
 }
 
@@ -274,7 +275,6 @@ SP
   menu
   -------------------------------------------*/
   #menu {
-    width: 100%;
     margin-bottom: 25px;
   }
   #menu a {
